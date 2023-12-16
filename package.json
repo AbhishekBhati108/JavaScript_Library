@@ -1,0 +1,26 @@
+{
+  "name": "javascript_r",
+  "version": "1.0.0",
+  "description": "This is React App",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/AbhishekBhati108/JavaScript_Library.git)"
+  },
+  "author": "Abhishek Bhati",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.10.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserlist": [
+    "last 2 versions"
+  ]
+}
